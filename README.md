@@ -5,3 +5,5 @@
 ### Then install newest version of numpy using pip or conda:
     pip3 install numpy
     conda install numpy
+### Then run in the project floder:
+    python3 main.py
